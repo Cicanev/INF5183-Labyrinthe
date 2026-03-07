@@ -1,7 +1,7 @@
 # Algorithmes de Recherche dans un Labyrinthe
 *Implémentation et comparaison de DFS, BFS et A**
-Cours : INF5183 - Fondements de l'Intelligence Artificielle
-Étudiante : Cindy CANÉVET - DESS SDIA, UQO, Hiver 2026
+>Cours : INF5183 - Fondements de l'Intelligence Artificielle
+>Étudiante : Cindy CANÉVET - DESS SDIA, UQO, Hiver 2026
 
 ## À propos
 Le projet vise à se familiariser avec les algorithmes de recherche fondamentaux de l'Intelligence Artificielle.
