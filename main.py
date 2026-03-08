@@ -29,7 +29,7 @@ def get_user_seed():
         except ValueError:
             print("❌ Entrez un nombre entier (ex: 42, 123, 0)")
         except KeyboardInterrupt:
-            print("\n👋 Au revoir !")
+            print("\nFin !")
             exit()
 
 def run(algorithm, algorithm_function, maze, start, goal):
@@ -98,5 +98,5 @@ if __name__ == "__main__":
     print_comparison_table(results, seed_info)
 
     print("\n" + "="*60)
-    print("🎉 RECHERCHES TERMINÉES")
-    print("👉 Relancez pour tester une autre clé !")
+    print("RECHERCHES TERMINÉES")
+    print("Relancez pour tester une autre clé !")

@@ -83,7 +83,7 @@ def get_neighbors(maze, row, col):
 # Affichage du labyrinthe en console
 def print_maze(maze):
     for row in maze:
-        print("".join(row))
+        print(" ".join(row))
     return
 
 # Affichage du labyrinthe avec l'exploration (p)
