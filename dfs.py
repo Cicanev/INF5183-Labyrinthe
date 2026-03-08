@@ -1,4 +1,3 @@
-from collections import deque
 from maze import get_neighbors
 
 def dfs(maze, start, goal):
